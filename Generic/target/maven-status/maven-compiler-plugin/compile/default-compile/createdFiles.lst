@@ -1,0 +1,5 @@
+ExtentReport\ExtentManager.class
+ExtentReport\ExtentTestManager.class
+ExtentReport\ExtentTestUpdate.class
+ExtentReport\TestLogger.class
+base\MobileAPI.class
